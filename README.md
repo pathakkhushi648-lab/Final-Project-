@@ -54,7 +54,7 @@ Since the target variable `house_price_inr` is a continuous numerical value, the
 
 ## Machine Learning Workflow
 
-```text
+text
 Data Collection
       ↓
 Data Understanding
